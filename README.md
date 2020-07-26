@@ -43,6 +43,8 @@
 
 [Онлайн инструмент для генерации и проверки хешированных паролей bcrypt.](https://www.devglan.com/online-tools/bcrypt-hash-generator)
 
+[Скрипты для БД](https://github.com/Grosmaster/RestServiceForOrders/tree/master/server/src/main/resources/datebase)
+
 ## Клиент
 
 Клиент представляет собой веб приложение написанное с использованием фреймворка Vaadin.
