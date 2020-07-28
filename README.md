@@ -1,4 +1,4 @@
-# Тестовое задание на позиция разроботчика в МегаФон
+# Тестовое задание на позицию разроботчика в МегаФон
 
 ## Задание:
 
@@ -42,6 +42,8 @@
 Пароли в базе данных хранятся в зашифрованном виде. Использована функция - [Bcrypt](https://en.wikipedia.org/wiki/Bcrypt)
 
 [Онлайн инструмент для генерации и проверки хешированных паролей bcrypt.](https://www.devglan.com/online-tools/bcrypt-hash-generator)
+
+[Скрипты для БД](https://github.com/Grosmaster/RestServiceForOrders/tree/master/server/src/main/resources/datebase)
 
 ## Клиент
 
