@@ -15,7 +15,7 @@ import java.util.List;
 @Slf4j
 public class OrderServiceImpl implements OrderService {
 
-    private static final String ORDERS_URL = "http://localhost:8075/api/v1/orders/";
+    private static final String ORDERS_URL = "http://localhost:8070/api/v1/orders/";
     private final ObjectMapper mapper = new ObjectMapper();
 
     @Override

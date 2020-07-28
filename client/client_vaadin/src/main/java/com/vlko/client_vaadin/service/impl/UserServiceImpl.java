@@ -15,7 +15,7 @@ import java.util.List;
 @Slf4j
 public class UserServiceImpl implements UserService {
 
-    private static final String USERS_URL = "http://localhost:8075/api/v1/users/";
+    private static final String USERS_URL = "http://localhost:8070/api/v1/users/";
     private final ObjectMapper mapper = new ObjectMapper();
 
     @Override
